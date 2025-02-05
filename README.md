@@ -1,6 +1,6 @@
 **BridgeLabz_2115000667**
 
-# **My Java Learning Journey**
+# **Day-wise Java Learning Journey**
 
 ---
 
