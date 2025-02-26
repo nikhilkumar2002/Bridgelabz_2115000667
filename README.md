@@ -475,3 +475,63 @@
 📌 **Testing Parameterized Tests**  
 
 ---
+
+## **Day-24 🚀**  
+📅 **Date:** 24-Feb-2025  
+
+### **Topics Covered:**  
+✔ **Annotations**  
+✔ **Reflection**  
+
+### **Practice Problems:**  
+📌 **Custom Logging Proxy Using Reflection**  
+📌 **Dependency Injection Using Reflection**  
+📌 **Method Execution Timing**  
+📌 **Create a Custom Object Mapper**  
+📌 **Generate a JSON Representation**  
+
+---  
+
+## **Day-25 🚀**  
+📅 **Date:** 25-Feb-2025  
+
+### **Topics Covered:**  
+✔ **CSV Data Handling**  
+✔ **Introduction to CSV**  
+✔ **Reading CSV Files**  
+✔ **Writing CSV Files**  
+✔ **Parsing CSV Data**  
+✔ **Data Validation**  
+
+### **Practice Problems:**  
+📌 **Read and Count Rows in a CSV File**  
+📌 **Filter Records from CSV**  
+📌 **Search for a Record in CSV**  
+📌 **Sort CSV Records by a Column**  
+📌 **Validate CSV Data Before Processing**  
+
+---  
+
+## **Day-26 🚀**  
+📅 **Date:** 26-Feb-2025  
+
+### **Topics Covered:**  
+✔ **JSON Data**  
+✔ **Introduction to JSON**  
+✔ **Reading JSON Data**  
+✔ **Writing JSON Data**  
+✔ **Parsing JSON Data**  
+✔ **JSON Schema Validation**  
+
+### **Practice Problems:**  
+📌 **Read a JSON file and print all keys and values**  
+📌 **Convert a list of Java objects into a JSON array**  
+📌 **Filter JSON data: Print only users older than 25 years**  
+📌 **Validate an email field using JSON Schema**  
+📌 **Merge two JSON files into a single JSON object**  
+📌 **Convert JSON to XML format**  
+📌 **Convert CSV data into JSON**  
+📌 **Generate a JSON report from database records**  
+📌 **IPL and Censor Analyzer**  
+
+---
