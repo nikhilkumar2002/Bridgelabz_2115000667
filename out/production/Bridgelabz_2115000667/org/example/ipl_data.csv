@@ -1,0 +1,4 @@
+match_id,team1,team2,player_of_match,score
+1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,{"Mumbai Indians": 180, "Chennai Super Kings": 175}
+2,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,{"Royal Challengers Bangalore": 200, "Kolkata Knight Riders": 190}
+3,Sunrisers Hyderabad,Delhi Capitals,David Warner,{"Sunrisers Hyderabad": 150, "Delhi Capitals": 140}
